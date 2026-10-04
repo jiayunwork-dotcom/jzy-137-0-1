@@ -1,9 +1,11 @@
 node_modules/
 dist/
 data/
+test/
+scratch/
+coverage/
 *.db
 *.db-shm
 *.db-wal
-coverage/
+.git/
 .DS_Store
-npm-debug.log*
